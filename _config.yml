@@ -4,7 +4,7 @@ subtitle: Moore
 email: mitchell1484@gmail.com
 description: Porfolio and Biographic Information for your convenience.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: mitchellmoore.page # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 author: Mitchell Moore
 street_address: 1175 Kink Arthur Ct.
 city: Alabaster
