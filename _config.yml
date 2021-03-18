@@ -6,7 +6,7 @@ description: Porfolio and Biographic Information for your convenience.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author: Mitchell Moore
-street_address: 1175 Kink Arthur Ct.
+street_address: 
 city: Alabaster
 state: AL
 zip_code: 35007
