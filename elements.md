@@ -32,6 +32,8 @@ nav-menu: true
     <li>Tmux</li>
     <li>Anaconda3</li>
     <li>Jupyter Notebooks</li>
+    <li>Docker</li>
+    <li>Singularity</li>
 </ul>
 </div>
 <div class="6u$ 12u$(medium)">
