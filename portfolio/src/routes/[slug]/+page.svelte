@@ -1,7 +1,7 @@
-<p>This is a param test.
-</p>
+<p>This is a param test.</p>
+
 <style>
-    p {
-        color: red;
-    }
+	p {
+		color: red;
+	}
 </style>
