@@ -3,4 +3,9 @@
 	<a href="/about">About</a>
 	<a href="/settings">Settings</a>
 </nav>
+<style>
+    a {
+        color: aquamarine;
+    }
+</style>
 <slot />
