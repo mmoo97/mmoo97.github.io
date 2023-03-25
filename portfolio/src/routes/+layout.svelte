@@ -1,26 +1,42 @@
 <NavBar/>
 <LayoutGrid>
-  <Cell span={3}>
-    <div class="demo-cell">Span 3</div>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
   </Cell>
-  <Cell span={7}>
-    <div class="demo-cell">Span 7</div>
-  </Cell>
-</LayoutGrid>
-<LayoutGrid>
-  <Cell span={3}>
-    <div class="demo-cell">Span 3</div>
-  </Cell>
-  <Cell span={7}>
-    <div class="demo-cell">Span 7</div>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
   </Cell>
 </LayoutGrid>
 <LayoutGrid>
-  <Cell span={3}>
-    <div class="demo-cell">Span 3</div>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
   </Cell>
-  <Cell span={7}>
-    <div class="demo-cell">Span 7</div>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
+  </Cell>
+</LayoutGrid>
+<LayoutGrid>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
+  </Cell>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
+  </Cell>
+</LayoutGrid>
+<LayoutGrid>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
+  </Cell>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
+  </Cell>
+</LayoutGrid>
+<LayoutGrid>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
+  </Cell>
+  <Cell span={6}>
+    <div class="demo-cell">Span 6</div>
   </Cell>
 </LayoutGrid>
 
