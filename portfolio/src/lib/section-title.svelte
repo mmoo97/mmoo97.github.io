@@ -19,11 +19,11 @@
 
     h1 {
         font-size: 28pt;
-        padding-top: 10%;
     }
 
     a {
         color: inherit;
+        scroll-margin-top: 5rem;
     }
 
 </style>
