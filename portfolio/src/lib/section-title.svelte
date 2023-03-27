@@ -19,6 +19,7 @@
 
     h1 {
         font-size: 28pt;
+        padding-top: 10%;
     }
 
     a {
