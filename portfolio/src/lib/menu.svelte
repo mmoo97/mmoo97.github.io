@@ -22,7 +22,7 @@
             <Text>Education</Text>
         </Item>
         <Separator/>
-        <Item href="#Contact" on:SMUI:action={scrollIntoView} on:click={scrollIntoView}>
+        <Item href="#Contact" on:SMUI:action={scrollIntoView}>
             <IconButton class="material-icons" disabled>contacts</IconButton>
             <Text>Contact</Text>
         </Item>
