@@ -6,24 +6,24 @@
     >
       <List>
         <Item on:SMUI:action={() => (clicked = 'Home')}>
-            <IconButton on:click={() => {}} class="material-icons" >home</IconButton>
+            <IconButton href="#Home" on:click={() => {}} class="material-icons" disabled>home</IconButton>
             <Text>Home</Text>
         </Item>
         <Item on:SMUI:action={() => (clicked = 'Projects')}>
-            <IconButton on:click={() => {}} class="material-icons" >code</IconButton>
+            <IconButton href="#Projects" on:click={() => {}} class="material-icons" disabled>code</IconButton>
             <Text>Projects</Text>
         </Item>
         <Item on:SMUI:action={() => (clicked = 'Tools')}>
-            <IconButton on:click={() => {}} class="material-icons" >build</IconButton>
+            <IconButton href="#Tools" on:click={() => {}} class="material-icons" disabled>build</IconButton>
             <Text>Tools</Text>
         </Item>
         <Item on:SMUI:action={() => (clicked = 'Education')}>
-            <IconButton on:click={() => {}} class="material-icons" >school</IconButton>
+            <IconButton href="#Education" on:click={() => {}} class="material-icons" disabled>school</IconButton>
             <Text>Education</Text>
         </Item>
         <Separator/>
-        <Item on:SMUI:action={() => (clicked = 'Education')}>
-            <IconButton on:click={() => {}} class="material-icons" >contacts</IconButton>
+        <Item on:SMUI:action={() => (clicked = 'Contact')}>
+            <IconButton href="#Contact" on:click={() => {}} class="material-icons" disabled>contacts</IconButton>
             <Text>Contact</Text>
         </Item>
       </List>
