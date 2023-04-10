@@ -60,10 +60,6 @@
         text-align: center;
         color: #000;
     }
-
-    :global(body) {
-        overflow: hidden;
-    }
 </style>
 
 <script>
