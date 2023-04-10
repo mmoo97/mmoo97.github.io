@@ -11,7 +11,7 @@
 
 <LayoutGrid>
     <Cell span={3}>
-        <a id="{title}"><h1><span class="material-icons">{icon}</span>   {title}</h1></a>
+        <a id="{title}"><h1><span class="material-icons">{icon}</span>{title}</h1></a>
     </Cell>
 </LayoutGrid>
 
