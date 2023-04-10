@@ -7,15 +7,7 @@
     <div class="demo-cell">Span 6</div>
   </Cell>
 </LayoutGrid>
-<SectionTitle title={"Projects"} icon={"code"}/>
-<LayoutGrid>
-  <Cell span={6}>
-    <div class="demo-cell">Span 6</div>
-  </Cell>
-  <Cell span={6}>
-    <div class="demo-cell">Span 6</div>
-  </Cell>
-</LayoutGrid>
+<ProjectsSection/>
 <SectionTitle title={"Tools"} icon={"build"}/>
 <LayoutGrid>
   <Cell span={6}>
@@ -49,7 +41,7 @@
 <script>
     import LayoutGrid, { Cell } from '@smui/layout-grid';
     import SectionTitle from '../lib/section-title.svelte';
-
+    import ProjectsSection from './project_section/projects_section.svelte';
     let disabledScroll = true;
 </script>
 
