@@ -11,7 +11,7 @@
   <Cell span={5}>
     <div class="accordion-container">
   <Accordion multiple>
-    <ProjectPanel header="EnviroPi" info="Linux, Raspi, ML" image=""/>
+    <ProjectPanel header="EnviroPi" info="Linux, Raspi, ML" image_class="enviropi"/>
     <Panel>
       <Header>Project 2
         <span slot="description">Description of panel 1.</span>
