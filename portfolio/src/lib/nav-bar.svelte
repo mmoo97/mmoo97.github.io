@@ -5,7 +5,7 @@
 		<Title>Mitchell</Title>
 	  </Section>
 	  <Section align="end" toolbar>
-		<IconButton class="material-icons" aria-label="Download"
+		<IconButton disabled class="material-icons" aria-label="Download"
 		  >dark_mode</IconButton
 		>
 	  </Section>
